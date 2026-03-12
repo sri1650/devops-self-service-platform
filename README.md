@@ -29,3 +29,6 @@ This project demonstrates an internal developer platform where application teams
 - Demonstrate platform engineering concepts
 - Show real-world DevOps workflow design
 - Build a production-style self-service delivery system
+## Architecture
+
+[View Platform Architecture](./architecture.md)
